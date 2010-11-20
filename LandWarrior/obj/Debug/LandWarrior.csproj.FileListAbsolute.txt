@@ -1,0 +1,106 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\LandWarrior.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\LandWarrior.Resources.tinyresources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\TinyResGen.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\le\FEZ Panda Application.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\be\FEZ Panda Application.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\le\FEZ Panda Application.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\be\FEZ Panda Application.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\FEZ Panda Application.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\FEZ Panda Application.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\le\FEZ Panda Application.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\le\FEZ Panda Application.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\be\FEZ Panda Application.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\be\FEZ Panda Application.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Native.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Native.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Native.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Native.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.Native.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.Native.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\be\FEZ Panda Application.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\be\FEZ Panda Application.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\le\FEZ Panda Application.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\le\FEZ Panda Application.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\FEZ Panda Application.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LandWarrior\obj\Debug\FEZ Panda Application.pdb
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\le\LandWarrior.exe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\be\LandWarrior.exe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\le\LandWarrior.pdb
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\be\LandWarrior.pdb
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LandWarrior.exe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LandWarrior.pdb
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\le\LandWarrior.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\le\LandWarrior.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\be\LandWarrior.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\be\LandWarrior.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Native.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Native.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.Native.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.Native.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.dll
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.IO.dll
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.Native.dll
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.System.dll
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.xml
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.IO.xml
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.Native.xml
+E:\Robot\LandWarrior\LandWarrior\bin\Debug\GHIElectronics.NETMF.System.xml
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\ResolveAssemblyReference.cache
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\TinyCLR_DebugReferences.cache
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\LandWarrior.Resources.resources
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\GenerateResource.read.1.tlog
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\GenerateResource.write.1.tlog
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\LandWarrior.Resources.tinyresources
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\TinyResGen.cache
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\be\LandWarrior.pe
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\be\LandWarrior.pdbx
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\le\LandWarrior.pe
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\le\LandWarrior.pdbx
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\LandWarrior.exe
+E:\Robot\LandWarrior\LandWarrior\obj\Debug\LandWarrior.pdb
